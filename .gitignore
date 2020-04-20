@@ -1,0 +1,15 @@
+*.pyc
+*.swp
+*.pem
+*.DS_Store
+*.egg-info
+__pycache__
+build
+dist
+pycache
+.pycache
+.ipynb_checkpoints/
+examples
+output
+dist
+sample-response.txt
