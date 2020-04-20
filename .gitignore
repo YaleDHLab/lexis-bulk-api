@@ -9,7 +9,6 @@ dist
 pycache
 .pycache
 .ipynb_checkpoints/
-examples
 output
 dist
 sample-response.txt
