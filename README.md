@@ -1,3 +1,7 @@
+# Note: This repository has been archived
+This project was developed under a previous phase of the Yale Digital Humanities Lab. Now a part of Yale Library’s Computational Methods and Data department, the Lab no longer includes this project in its scope of work. As such, it will receive no further updates.
+
+
 # Lexis Bulk API
 
 This library provides a Python wrapper around the Lexis Nexis Bulk API to make it easier for users to fetch data from the API endpoints.
